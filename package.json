@@ -3,7 +3,7 @@
   "version": "0.2.11",
   "description": "Capnproto implementation for Javascript",
   "main": "index",
-  "bin" : [
+  "bin": [
     "bin/capnp",
     "bin/capnpc-js-json",
     "bin/capnpc-js"
@@ -32,6 +32,7 @@
   "homepage": "https://github.com/popham/capnp-js-plugin",
   "devDependencies": {
     "deep-diff": "^0.3.0",
+    "dustjs-linkedin": "^2.7.5",
     "gulp": "^3.8.7",
     "gulp-chug": "^0.3.0",
     "gulp-concat": "^2.3.4",
